@@ -1,2 +1,2 @@
 # devporfolio
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Richard-vinu/devporfolio/blob/main/images/richardsg.my.canva.site_.png)
