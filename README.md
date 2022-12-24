@@ -1,6 +1,5 @@
 # devporfolio
 
- Add Grepper Answer (a)Add Writeup
 Technical Back-End Developer Interview Questions
 What is your favorite programming language? ...
 What do you understand by NoSQL databases? ...
