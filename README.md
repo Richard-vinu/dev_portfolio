@@ -11,6 +11,6 @@ What is the difference between software architecture and software design?<BR>
 What is JavaScript, and why is it used?
   
 What is your approach to debugging?<BR>
-  Q. What are the advantages of ReactJS?
+
 
 
