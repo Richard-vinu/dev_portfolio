@@ -2,7 +2,7 @@
 
 Technical Back-End Developer Interview Questions
 
-What is your favorite programming language? ...<BR>
+
   
 What do you understand by NoSQL databases? ...<BR>
   
